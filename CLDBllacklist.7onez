@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 08/29/2022, 00:00:02
+# Updated: 08/30/2022, 00:00:02
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -8230,6 +8230,23 @@
 0.0.0.0 pxjvn07.com
 0.0.0.0 pxjvn08.com
 0.0.0.0 pxjvn09.com
+0.0.0.0 vn-ng.xyz
+0.0.0.0 stokmad.com
+0.0.0.0 greatkcno.com
+0.0.0.0 shopnamblue.com
+0.0.0.0 vvb111.com
+0.0.0.0 classics006.com
+0.0.0.0 sendo-vn.com
+0.0.0.0 grupoalquitarafilms.com
+0.0.0.0 shopdegamingff.com
+0.0.0.0 lapaii.icu
+0.0.0.0 tmbam88.com
+0.0.0.0 fafa118vn.com
+0.0.0.0 vinfinance.net
+0.0.0.0 nhatvip.live
+0.0.0.0 xacthuctangqua.com
+0.0.0.0 shoptruongstar.com
+0.0.0.0 223344.live
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
