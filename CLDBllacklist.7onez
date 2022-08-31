@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 08/31/2022, 00:00:01
+# Updated: 09/01/2022, 00:00:01
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -8267,6 +8267,14 @@
 0.0.0.0 shoppe85.vip
 0.0.0.0 hnx6s.com
 0.0.0.0 dienmayxanh.vip
+0.0.0.0 vn-quatang.online
+0.0.0.0 metaminer.vip
+0.0.0.0 hlviet84.com
+0.0.0.0 mayotrade.info
+0.0.0.0 oivay.app
+0.0.0.0 68wing.com
+0.0.0.0 usdtrr.org
+0.0.0.0 vnexpress24h.online
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
@@ -8521,6 +8529,8 @@
 0.0.0.0 universal-www.ltwla.com
 0.0.0.0 gionghatvietnhivietnam2022.weebly.com
 0.0.0.0 gdviettelpay.weebly.com
+0.0.0.0 cuocthitainangnhithang12.weebly.com
+0.0.0.0 aodaisieuvietnhi2022.weebly.com
 0.0.0.0 facebook.com/%C4%90%E1%BA%A7u-t%C6%B0-t%C3%A0i-ch%C3%ADnh-forex-an-to%C3%A0n-hi%E1%BB%87u-qu%E1%BA%A3-Lion-Community-101611778624602
 0.0.0.0 facebook.com/Oral-B-Viet-Nam-112479383941786
 0.0.0.0 facebook.com/T%C3%A0i-Kho%E1%BA%A3n-Netflix-Gi%C3%A1-R%E1%BA%BB-103051234676686
