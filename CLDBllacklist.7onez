@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 09/03/2022, 00:00:01
+# Updated: 09/05/2022, 00:00:02
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -31,7 +31,6 @@
 0.0.0.0 x8vn.com
 0.0.0.0 vnsmarts.com
 0.0.0.0 shopbangbang.xyz
-0.0.0.0 nmzxgt.com
 0.0.0.0 10001mb.com
 0.0.0.0 mawnhealth.com
 0.0.0.0 whirpool.net
@@ -157,7 +156,6 @@
 0.0.0.0 hoiquanff.com
 0.0.0.0 hotdeal24h.online
 0.0.0.0 hotline-tongdai.biz
-0.0.0.0 hua11.top
 0.0.0.0 imoney00.com
 0.0.0.0 instabio.cc
 0.0.0.0 interwingames.com
@@ -340,7 +338,6 @@
 0.0.0.0 vnshop.today
 0.0.0.0 vodkaquang.com
 0.0.0.0 vongquay-2021lolgarena.ml
-0.0.0.0 vongquaymienphi.net
 0.0.0.0 vuabongda.biz
 0.0.0.0 vuabongda.org
 0.0.0.0 vuabongda.top
@@ -370,7 +367,6 @@
 0.0.0.0 garenalienquan-hesoidong.com
 0.0.0.0 aiqian88.com
 0.0.0.0 hethongshopee.vn
-0.0.0.0 webnapgame.com
 0.0.0.0 blccchain.com
 0.0.0.0 mobigunny.com
 0.0.0.0 napgame24h.com
@@ -406,7 +402,6 @@
 0.0.0.0 c888bet.net
 0.0.0.0 chiasekienthuccuocsong.online
 0.0.0.0 choi789.fun
-0.0.0.0 choib5.in
 0.0.0.0 choirikvip.me
 0.0.0.0 choivua.club
 0.0.0.0 chovietnhat.com
@@ -552,7 +547,6 @@
 0.0.0.0 support-nganhang.site
 0.0.0.0 taib52.club
 0.0.0.0 tailoc.app
-0.0.0.0 taiv8.us
 0.0.0.0 tdbratrade.net
 0.0.0.0 tdtu3.cf
 0.0.0.0 techcapitalholdings.com
@@ -600,9 +594,6 @@
 0.0.0.0 yo88game.win
 0.0.0.0 vbyz60.cn
 0.0.0.0 garema.ml
-0.0.0.0 quatruykich.vn
-0.0.0.0 fa88.online
-0.0.0.0 go88.info
 0.0.0.0 asite.xyz
 0.0.0.0 rik.vip
 0.0.0.0 autolike.com.vn
@@ -615,7 +606,10 @@
 0.0.0.0 go88vn.top
 0.0.0.0 taib52.win
 0.0.0.0 x8vn.win
+0.0.0.0 choib5.in
+0.0.0.0 hua11.top
 0.0.0.0 rik.win
+0.0.0.0 taiv8.us
 0.0.0.0 atommarkets.com.vn
 0.0.0.0 cacbroker.com.vn
 0.0.0.0 coolcat.com.vn
@@ -639,8 +633,6 @@
 0.0.0.0 sieuhack.work
 0.0.0.0 sacombank.net.vn
 0.0.0.0 awemxw.com
-0.0.0.0 yo88game.net
-0.0.0.0 xtgem.com
 0.0.0.0 himselveds.com
 0.0.0.0 acb-online-center.com
 0.0.0.0 acb-online.co
@@ -701,6 +693,7 @@
 0.0.0.0 playb29.top
 0.0.0.0 polmatoy.com
 0.0.0.0 pop0.gq
+0.0.0.0 quatruykich.vn
 0.0.0.0 quaythuonggarena.com
 0.0.0.0 setvipsec.club
 0.0.0.0 shopfreefire137.com
@@ -727,22 +720,21 @@
 0.0.0.0 vnietinbank.com
 0.0.0.0 vongquay-freefire.com
 0.0.0.0 vongquay-freefire2021.com
+0.0.0.0 vongquaymienphi.net
 0.0.0.0 vongquaysieuphamfreefirevn.com
 0.0.0.0 wicorive.com
+0.0.0.0 yo88game.net
 0.0.0.0 yosionge.com
 0.0.0.0 zclub.vin
 0.0.0.0 wnjhkt.com
 0.0.0.0 watch-video.net
 0.0.0.0 garena-memberrships.com
 0.0.0.0 garenaz-vn.com
-0.0.0.0 memberrshipp.com
 0.0.0.0 memmbership.com
 0.0.0.0 vnkuvideo.com
 0.0.0.0 garenamembershipviet.com
 0.0.0.0 pdfconvertersearchhd.com
-0.0.0.0 freefiregarrena.com
 0.0.0.0 webstarterz.com
-0.0.0.0 x8top.net
 0.0.0.0 0mmlive.com
 0.0.0.0 10mmlive.com
 0.0.0.0 99hotel.top
@@ -780,6 +772,7 @@
 0.0.0.0 ffmembershipvns.com
 0.0.0.0 ffmembershop.com
 0.0.0.0 fifa4online.vn
+0.0.0.0 freefiregarrena.com
 0.0.0.0 freefiremembershipps.com
 0.0.0.0 freefirevnsukien.com
 0.0.0.0 freejobsapp.com
@@ -814,7 +807,6 @@
 0.0.0.0 icvideon.xyz
 0.0.0.0 iisacombank.com
 0.0.0.0 insanitycheats.com
-0.0.0.0 pdfconvertersearchpro.com
 0.0.0.0 instaplekt.com
 0.0.0.0 kcmemberships.com
 0.0.0.0 khoataikhoan-grn-vinhvien.xyz
@@ -826,6 +818,7 @@
 0.0.0.0 mbankingvn.com
 0.0.0.0 membergarenafreefirevn.com
 0.0.0.0 memberrshipgarenaa.com
+0.0.0.0 memberrshipp.com
 0.0.0.0 membershipvn-ff2021.com
 0.0.0.0 membeship-garenavn.com
 0.0.0.0 memmberships.com
@@ -846,6 +839,8 @@
 0.0.0.0 nganhangshopeevn.com
 0.0.0.0 nhancoder.com
 0.0.0.0 nhanthuongfreefire2021.com
+0.0.0.0 nmzxgt.com
+0.0.0.0 pdfconvertersearchpro.com
 0.0.0.0 prettysuggestwing-6.live
 0.0.0.0 pube.me
 0.0.0.0 quaffvietnam.com
@@ -889,6 +884,7 @@
 0.0.0.0 waitgirlbroke-9.live
 0.0.0.0 watchextremely-bestprecisefile.best
 0.0.0.0 web-membbership-freefire-garena.com
+0.0.0.0 x8top.net
 0.0.0.0 xamvn.us
 0.0.0.0 xn--cngngitvit-xkb2932gjea6c.vn
 0.0.0.0 zaxhiyw.cn
@@ -1014,7 +1010,6 @@
 0.0.0.0 vietjetairs.com.vn
 0.0.0.0 vietnamairslines.vn
 0.0.0.0 festivalbilekligi.com
-0.0.0.0 mov.mn
 0.0.0.0 mobie.in
 0.0.0.0 16hotlive.vip
 0.0.0.0 bluemediafiles.com
@@ -1032,7 +1027,6 @@
 0.0.0.0 hacktaikhoanfacebook.com
 0.0.0.0 hotliveapp.com
 0.0.0.0 pubguc.live
-0.0.0.0 smile-129.xtgem.com
 0.0.0.0 toolhack247.com
 0.0.0.0 v4u.me
 0.0.0.0 twin3388.com
@@ -1041,7 +1035,6 @@
 0.0.0.0 convertitsearch.com
 0.0.0.0 highercaptcha-settle.com
 0.0.0.0 uyban.club
-0.0.0.0 searchconverterit.com
 0.0.0.0 asiarchv.click
 0.0.0.0 speedergator.xyz
 0.0.0.0 000000.live
@@ -1073,7 +1066,6 @@
 0.0.0.0 hackpubg.net
 0.0.0.0 hackvn.pro
 0.0.0.0 hawstok.com
-0.0.0.0 hbgftr.gq
 0.0.0.0 hotlive.vip
 0.0.0.0 keygenninja.com
 0.0.0.0 khogamehack.com
@@ -1091,6 +1083,7 @@
 0.0.0.0 ptcn.com.vn
 0.0.0.0 regecish.net
 0.0.0.0 romgoc.net
+0.0.0.0 searchconverterit.com
 0.0.0.0 shopclone.net
 0.0.0.0 sieucheck.com
 0.0.0.0 sieuhack.net
@@ -1121,13 +1114,11 @@
 0.0.0.0 truyentv.net
 0.0.0.0 bk8vip.com
 0.0.0.0 selly.store
-0.0.0.0 hoakhuya.com
 0.0.0.0 dafapromo.com
 0.0.0.0 qq8788.net
 0.0.0.0 ku711.com
 0.0.0.0 ku999.net
 0.0.0.0 zowinvn.vip
-0.0.0.0 w88w981.com
 0.0.0.0 11bet.win
 0.0.0.0 123casino.org
 0.0.0.0 49betoo.com
@@ -1161,6 +1152,7 @@
 0.0.0.0 dabet.com
 0.0.0.0 danh1548.xyz
 0.0.0.0 debet.com
+0.0.0.0 fa88.online
 0.0.0.0 fabet.info
 0.0.0.0 fairbet88vn.com
 0.0.0.0 fb88cup.com
@@ -1175,6 +1167,7 @@
 0.0.0.0 free3dgame.xyz
 0.0.0.0 fun1118.com
 0.0.0.0 ge598.com
+0.0.0.0 go88.info
 0.0.0.0 iwin2888.com
 0.0.0.0 jbo.com.co
 0.0.0.0 jbo039.com
@@ -1248,6 +1241,7 @@
 0.0.0.0 vwinfast.com
 0.0.0.0 w88d.com
 0.0.0.0 w88f1.com
+0.0.0.0 w88w981.com
 0.0.0.0 wellviet.net
 0.0.0.0 zbet88.org
 0.0.0.0 zbetvn.com
@@ -1404,6 +1398,7 @@
 0.0.0.0 jdpic.bar
 0.0.0.0 fb88you.com
 0.0.0.0 topdidonga92.com
+0.0.0.0 hbgftr.gq
 0.0.0.0 rw5yd.cn
 0.0.0.0 j2bha.cn
 0.0.0.0 ktgpfg.cn
@@ -1522,6 +1517,7 @@
 0.0.0.0 profit-earning.com
 0.0.0.0 psp-haxors.com
 0.0.0.0 twin5253.com
+0.0.0.0 webnapgame.com
 0.0.0.0 789club.biz
 0.0.0.0 sieubong.cc
 0.0.0.0 runheavilycurrentthefile.vip
@@ -1632,7 +1628,6 @@
 0.0.0.0 apteka-money.ru
 0.0.0.0 binomo-webtrade.com
 0.0.0.0 chanlemomo.win
-0.0.0.0 shopmobạviet.vn
 0.0.0.0 napthe.asia
 0.0.0.0 goshopee.net
 0.0.0.0 easyrepay.vi
@@ -2114,7 +2109,6 @@
 0.0.0.0 gold88.win
 0.0.0.0 92lottery.bet
 0.0.0.0 tapestri.io
-0.0.0.0 92lottery.net
 0.0.0.0 868vip1.com
 0.0.0.0 008917.com
 0.0.0.0 0wfootball.com
@@ -2595,7 +2589,6 @@
 0.0.0.0 shophatieuphu.com
 0.0.0.0 shopcocphuchoai.com
 0.0.0.0 tiki8.vip
-0.0.0.0 shopgcaothụ.vn
 0.0.0.0 xn--shopgcaoth-043e.vn
 0.0.0.0 pepe.vn
 0.0.0.0 vinally.net
@@ -3211,6 +3204,7 @@
 0.0.0.0 pubgmobilevn.mobi
 0.0.0.0 midasbuyvn.com
 0.0.0.0 napthefffreefire.com
+0.0.0.0 mov.mn
 0.0.0.0 dienmayxanh2022.com
 0.0.0.0 ff-garenamemberships.com
 0.0.0.0 hotro.asia
@@ -3355,7 +3349,6 @@
 0.0.0.0 vietvn.net
 0.0.0.0 sg-video.xyz
 0.0.0.0 eventlq2021.com
-0.0.0.0 zxcvbn.vip
 0.0.0.0 k567.vip
 0.0.0.0 dliscordnltro.com
 0.0.0.0 biddvsmort.com
@@ -3750,7 +3743,6 @@
 0.0.0.0 191235.com
 0.0.0.0 jun8811.com
 0.0.0.0 6733255.com
-0.0.0.0 giovang01.com
 0.0.0.0 chanle25.com
 0.0.0.0 yo88vn.com
 0.0.0.0 gta5moneygen.online
@@ -3815,6 +3807,7 @@
 0.0.0.0 trangqua696.com
 0.0.0.0 phanthuong01.com
 0.0.0.0 traothuongxe7.com
+0.0.0.0 giovang01.com
 0.0.0.0 locthuongviet.com
 0.0.0.0 giaitructuyenvn.com
 0.0.0.0 quaviet01vn.com
@@ -4402,6 +4395,7 @@
 0.0.0.0 wibu-team.com
 0.0.0.0 muakimcuong.net
 0.0.0.0 s689.com
+0.0.0.0 zxcvbn.vip
 0.0.0.0 dfs666.vip
 0.0.0.0 msci5.vip
 0.0.0.0 msci1.space
@@ -4547,7 +4541,6 @@
 0.0.0.0 tt-gplxgov.vn
 0.0.0.0 bogiaothongvantai.com
 0.0.0.0 vjdeonx191334.ga
-0.0.0.0 tpbank.vn-tbc.info
 0.0.0.0 h99.live
 0.0.0.0 556.vn
 0.0.0.0 663.vn
@@ -5147,7 +5140,6 @@
 0.0.0.0 fmtradeuk.com
 0.0.0.0 cr599.vip
 0.0.0.0 huntermbot.com
-0.0.0.0 vcbdiieabink.com
 0.0.0.0 sukientanxuan2022.com
 0.0.0.0 sedo98.com
 0.0.0.0 arygosfx.com
@@ -5172,6 +5164,7 @@
 0.0.0.0 seainvesting.com
 0.0.0.0 gqi15f2.cn
 0.0.0.0 v8k16h9.cn
+0.0.0.0 vcbdiieabink.com
 0.0.0.0 gj714c5.cn
 0.0.0.0 vcbdibeibink.com
 0.0.0.0 scbielbink.com
@@ -5585,6 +5578,7 @@
 0.0.0.0 nohu.game
 0.0.0.0 celltphone.com
 0.0.0.0 mcredit1.net
+0.0.0.0 vn-tbc.info
 0.0.0.0 i8236.com
 0.0.0.0 xacminh-vn.com
 0.0.0.0 dienthoaivui.co
@@ -6013,14 +6007,12 @@
 0.0.0.0 uslblock.com
 0.0.0.0 titan11.cn
 0.0.0.0 chanle368.com
-0.0.0.0 napfreefirex5-garena.com
 0.0.0.0 tik1111.com
 0.0.0.0 88onlinegame.com
 0.0.0.0 xemphim365ngay.com
 0.0.0.0 kolotibablo.com
 0.0.0.0 coin-vestltd.com
 0.0.0.0 rebirth2.com
-0.0.0.0 wynn08.com
 0.0.0.0 shbet3.com
 0.0.0.0 yg1516.com
 0.0.0.0 hoacanh2022.com
@@ -6031,6 +6023,7 @@
 0.0.0.0 trumchanle99.fun
 0.0.0.0 chanlemm5s.online
 0.0.0.0 vieclamshopee.com
+0.0.0.0 napfreefirex5-garena.com
 0.0.0.0 shopeep.vip
 0.0.0.0 new881.com
 0.0.0.0 shoppeg.com
@@ -6263,7 +6256,6 @@
 0.0.0.0 vistatrade.vip
 0.0.0.0 vcbdigtsbink.com
 0.0.0.0 tikivip.org
-0.0.0.0 nhacaitop.org
 0.0.0.0 cr879.com
 0.0.0.0 igoda.shop
 0.0.0.0 lottemart.cc
@@ -6288,6 +6280,7 @@
 0.0.0.0 ku19.net
 0.0.0.0 uu21a.com
 0.0.0.0 dola88.club
+0.0.0.0 nhacaitop.org
 0.0.0.0 fi8899.com
 0.0.0.0 jbbodds.com
 0.0.0.0 melbet001.com
@@ -6316,7 +6309,6 @@
 0.0.0.0 sheer-pro.org
 0.0.0.0 fulv.net
 0.0.0.0 daohexn.com
-0.0.0.0 xiapis.vip
 0.0.0.0 vaynhanhmb.com
 0.0.0.0 subgiare28.xyz
 0.0.0.0 nbxapp.xyz
@@ -6327,6 +6319,7 @@
 0.0.0.0 matrix-ws.cc
 0.0.0.0 loc99.vip
 0.0.0.0 clmm247.net
+0.0.0.0 xiapis.vip
 0.0.0.0 sslipnyjiw.com
 0.0.0.0 quaviet456.com
 0.0.0.0 tdtc.club
@@ -6407,6 +6400,7 @@
 0.0.0.0 kyleweir.com
 0.0.0.0 joom61.com
 0.0.0.0 joom91.com
+0.0.0.0 wynn08.com
 0.0.0.0 shopclonegiare.site
 0.0.0.0 go88.live
 0.0.0.0 sun.fun
@@ -8310,6 +8304,40 @@
 0.0.0.0 vn-vi.cc
 0.0.0.0 chanle45.me
 0.0.0.0 vn-loan.com
+0.0.0.0 linden.trade
+0.0.0.0 fullofactivishop.com
+0.0.0.0 euronext33.com
+0.0.0.0 www-ee88.com
+0.0.0.0 fibowin.com
+0.0.0.0 go789.fun
+0.0.0.0 e1386.com
+0.0.0.0 sd728.xyz
+0.0.0.0 sunwin99.me
+0.0.0.0 cfdtrx.com
+0.0.0.0 muacard.org
+0.0.0.0 forlys.com
+0.0.0.0 trumlayacc.com
+0.0.0.0 ronda-est.com
+0.0.0.0 mavicuidadors.com
+0.0.0.0 loveandthelibertine.com
+0.0.0.0 harlynsystems.com
+0.0.0.0 thuvienstem-steam.com
+0.0.0.0 pichanmall.com
+0.0.0.0 mining822.com
+0.0.0.0 trumsalefl.com
+0.0.0.0 may88.live
+0.0.0.0 tracuugiaodichvi.com
+0.0.0.0 luck8881.com
+0.0.0.0 preggonude.com
+0.0.0.0 rik89.club
+0.0.0.0 capitalinvestment.pro
+0.0.0.0 shopgcaothụ.vn
+0.0.0.0 easycredit.pro
+0.0.0.0 phuhungcredit.com
+0.0.0.0 nohu88.live
+0.0.0.0 lucky86.vip
+0.0.0.0 max79.club
+0.0.0.0 kk88.vin
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
