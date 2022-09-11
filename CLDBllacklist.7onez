@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 09/11/2022, 00:00:02
+# Updated: 09/12/2022, 00:00:01
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -8435,6 +8435,49 @@
 0.0.0.0 conaacb.com
 0.0.0.0 vietcredits.com
 0.0.0.0 dnn8w.vip
+0.0.0.0 pbfbb.net
+0.0.0.0 vnfb.com
+0.0.0.0 crescentmall66.com
+0.0.0.0 crescentmall77.com
+0.0.0.0 crescentmall88.com
+0.0.0.0 crescentmall99.com
+0.0.0.0 bitece.com
+0.0.0.0 wjrou.com
+0.0.0.0 vnhncorp.com
+0.0.0.0 apibinance.co
+0.0.0.0 ishoph.com
+0.0.0.0 napsukien.vn
+0.0.0.0 khuyenmaifreefirex5.com
+0.0.0.0 evn8.top
+0.0.0.0 amazonorder.vip
+0.0.0.0 w6666.in
+0.0.0.0 amznmall.com
+0.0.0.0 gsgbotj.com
+0.0.0.0 amazon779.com
+0.0.0.0 bclqaz.com
+0.0.0.0 youtubetask.com
+0.0.0.0 youtubetaskapp.com
+0.0.0.0 vn-ac.info
+0.0.0.0 vn-ac.life
+0.0.0.0 vn-ic.life
+0.0.0.0 vn-ic.info
+0.0.0.0 vn-icl.info
+0.0.0.0 vn-icl.life
+0.0.0.0 vn-iu.life
+0.0.0.0 vn-iu.info
+0.0.0.0 vn-tcb.info
+0.0.0.0 vn-tcb.life
+0.0.0.0 vn-ur.life
+0.0.0.0 vn-ur.info
+0.0.0.0 com-qn.top
+0.0.0.0 com-qs.top
+0.0.0.0 com-xw.top
+0.0.0.0 com-xy.top
+0.0.0.0 com-us.shop
+0.0.0.0 com-vq.top
+0.0.0.0 com-nq.top
+0.0.0.0 com-in.click
+0.0.0.0 com-in.help
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
