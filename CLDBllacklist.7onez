@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 09/13/2022, 00:00:02
+# Updated: 09/14/2022, 00:00:01
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -991,8 +991,6 @@
 0.0.0.0 vietin-bank.com
 0.0.0.0 vietinbankvis.cc
 0.0.0.0 vietjet.asia
-0.0.0.0 vietjet.net
-0.0.0.0 vietjetonline.com
 0.0.0.0 vietnam-airline.org
 0.0.0.0 vietnamaairlines.com
 0.0.0.0 vietnamairlinesgiare.vn
@@ -8495,6 +8493,25 @@
 0.0.0.0 clmm48.com
 0.0.0.0 snapdeal26.com
 0.0.0.0 cf6m.com
+0.0.0.0 raf999.com
+0.0.0.0 raf888.com
+0.0.0.0 raf777.com
+0.0.0.0 raf666.com
+0.0.0.0 raf555.com
+0.0.0.0 raf444.com
+0.0.0.0 raf333.com
+0.0.0.0 raf222.com
+0.0.0.0 raf111.com
+0.0.0.0 quanlygiadinh.com
+0.0.0.0 meetup09.com
+0.0.0.0 meetup08.com
+0.0.0.0 shopne988.com
+0.0.0.0 la505.com
+0.0.0.0 kimcuong1s.com
+0.0.0.0 lfmcurrency.com
+0.0.0.0 rihcos.com
+0.0.0.0 chotsochuan.com
+0.0.0.0 clmm.city
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
