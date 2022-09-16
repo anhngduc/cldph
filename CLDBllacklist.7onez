@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 09/16/2022, 00:00:02
+# Updated: 09/17/2022, 00:00:02
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -8540,6 +8540,59 @@
 0.0.0.0 i80066.com
 0.0.0.0 i80077.com
 0.0.0.0 i80088.com
+0.0.0.0 haitaoe.org
+0.0.0.0 vnbitcoin.cc
+0.0.0.0 ico-usdt.com
+0.0.0.0 lienquan-vgarena.vn
+0.0.0.0 vn-cbs.info
+0.0.0.0 maskwemb.com
+0.0.0.0 vn-cbs.life
+0.0.0.0 vn-lcb.life
+0.0.0.0 vn-lcb.info
+0.0.0.0 arroyowhipsnake.com
+0.0.0.0 alibabavip.xyz
+0.0.0.0 lt886622.org
+0.0.0.0 vpbban.com
+0.0.0.0 bemtx88.me
+0.0.0.0 vibvay.com
+0.0.0.0 bqkohl.com
+0.0.0.0 vnah398.com
+0.0.0.0 pemclmm.vip
+0.0.0.0 hh2751.com
+0.0.0.0 vimomo.vip
+0.0.0.0 songhung.pro
+0.0.0.0 shbfinanoe.com
+0.0.0.0 phuhungcash.com
+0.0.0.0 acs84.com
+0.0.0.0 choilawin.me
+0.0.0.0 wf666.top
+0.0.0.0 garenia.vn
+0.0.0.0 evnonline.org
+0.0.0.0 amazoncurateb.com
+0.0.0.0 cashare.vip
+0.0.0.0 asiashop999.com
+0.0.0.0 amg33.com
+0.0.0.0 amg567.com
+0.0.0.0 long-thanh.com
+0.0.0.0 efglobalvtol.com
+0.0.0.0 msbfhd.com
+0.0.0.0 44goltor.com
+0.0.0.0 tryhkh.com
+0.0.0.0 pohkf.com
+0.0.0.0 9scpb.com
+0.0.0.0 6hoom.com
+0.0.0.0 vocbm.com
+0.0.0.0 9ferl0.com
+0.0.0.0 ascbo.com
+0.0.0.0 8toom.com
+0.0.0.0 smbnv.com
+0.0.0.0 vn-inc.info
+0.0.0.0 vn-sbc.info
+0.0.0.0 vn-inc.life
+0.0.0.0 vn-sbc.life
+0.0.0.0 vn-cn.xyz
+0.0.0.0 napthesieunhanh.com
+0.0.0.0 ldachain.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
