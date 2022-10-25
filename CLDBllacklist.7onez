@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 10/25/2022, 00:00:02
+# Updated: 10/26/2022, 00:00:03
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -10706,6 +10706,37 @@
 0.0.0.0 svmfg1q.com
 0.0.0.0 tey4bp.com
 0.0.0.0 freefirehopqua.com
+0.0.0.0 247appbank.com
+0.0.0.0 wietcombank.com
+0.0.0.0 rop34m.com
+0.0.0.0 chovayfecredit.com
+0.0.0.0 perfectpayinvest.com
+0.0.0.0 360tradehub.com
+0.0.0.0 jaccsz.com
+0.0.0.0 moneyhay.net
+0.0.0.0 larutademama.com
+0.0.0.0 oxg.cc
+0.0.0.0 atlantiscex.com
+0.0.0.0 jaccsvn.com
+0.0.0.0 hdsaisonvn.com
+0.0.0.0 lottevn518.com
+0.0.0.0 99lotte.com
+0.0.0.0 vibvayvn.com
+0.0.0.0 vib84.com
+0.0.0.0 88lotte.com
+0.0.0.0 tpbank84.com
+0.0.0.0 999lotte.com
+0.0.0.0 shbfinan.com
+0.0.0.0 fccomvn.com
+0.0.0.0 lottevn896.com
+0.0.0.0 33lotte.com
+0.0.0.0 sgxcoin.net
+0.0.0.0 jaccsn.com
+0.0.0.0 333lotte.com
+0.0.0.0 shbfina.com
+0.0.0.0 tx55.vip
+0.0.0.0 vietsovpetro.top
+0.0.0.0 petrovietnam.top
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
