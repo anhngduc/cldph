@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 10/26/2022, 00:00:03
+# Updated: 10/27/2022, 00:00:03
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -10680,7 +10680,6 @@
 0.0.0.0 la53481.com
 0.0.0.0 la51482.com
 0.0.0.0 la91268.com
-0.0.0.0 la67482.com
 0.0.0.0 la19481.com
 0.0.0.0 la63942.com
 0.0.0.0 la70913.com
@@ -10737,6 +10736,32 @@
 0.0.0.0 tx55.vip
 0.0.0.0 vietsovpetro.top
 0.0.0.0 petrovietnam.top
+0.0.0.0 bmi444.com
+0.0.0.0 bmi111.com
+0.0.0.0 bmi666.com
+0.0.0.0 bmi555.com
+0.0.0.0 bmi333.com
+0.0.0.0 bmi222.com
+0.0.0.0 la67482.com
+0.0.0.0 thutucnhangiai2022.com
+0.0.0.0 baoduongdienlanhthanhhoa.com
+0.0.0.0 mobzone4you.com
+0.0.0.0 i999aa.com
+0.0.0.0 taiwin79.win
+0.0.0.0 nhacaimu9.com
+0.0.0.0 choiiwin.top
+0.0.0.0 codewin79.club
+0.0.0.0 vi1.jsyl0.vip
+0.0.0.0 hotroviet999.com
+0.0.0.0 trxofficial.com
+0.0.0.0 iprofitt.com
+0.0.0.0 zarastore1.com
+0.0.0.0 glancebit.ltd
+0.0.0.0 targett.app
+0.0.0.0 denistiaglin.com
+0.0.0.0 alibabavnn.com
+0.0.0.0 amazon20.net
+0.0.0.0 go88club.app
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
