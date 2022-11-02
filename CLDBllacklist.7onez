@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/02/2022, 00:00:02
+# Updated: 11/03/2022, 00:00:15
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -8857,7 +8857,7 @@
 0.0.0.0 st7799.com
 0.0.0.0 vnv966.com
 0.0.0.0 snowscootaction.com
-0.0.0.0 ]llzd9.com
+0.0.0.0 llzd9.com
 0.0.0.0 shoptinhyeuvn.com
 0.0.0.0 babi88.club
 0.0.0.0 youbn3.com
@@ -11182,6 +11182,56 @@
 0.0.0.0 awin588.com
 0.0.0.0 quatanthu.group
 0.0.0.0 quatanthu.vip
+0.0.0.0 vn-khachhang.click
+0.0.0.0 vn-nhanquatang.click
+0.0.0.0 tinhethong452.com
+0.0.0.0 viyo.app
+0.0.0.0 5678vn.com
+0.0.0.0 viyo.life
+0.0.0.0 vvccorpvn.com
+0.0.0.0 clmm268.fun
+0.0.0.0 card-tindung-vp.com
+0.0.0.0 nganhang88.store
+0.0.0.0 credit1oneunion.com
+0.0.0.0 cressbank.com
+0.0.0.0 eserbank.com
+0.0.0.0 crestfidubank.com
+0.0.0.0 esertrust.com
+0.0.0.0 ffbcgroup.com
+0.0.0.0 horizontransact.com
+0.0.0.0 libnatlb.com
+0.0.0.0 multibusfin.com
+0.0.0.0 nexgencredits.com
+0.0.0.0 onirybank.com
+0.0.0.0 powerbtrust.com
+0.0.0.0 premierebankstandard.com
+0.0.0.0 raonbk.com
+0.0.0.0 southregionalb.com
+0.0.0.0 standardresourcebank.com
+0.0.0.0 thirdcitybank.com
+0.0.0.0 topcitycapital.com
+0.0.0.0 westgarybank.com
+0.0.0.0 ziraatcon.com
+0.0.0.0 vatgia306.com
+0.0.0.0 vncash.cc
+0.0.0.0 dienmayxanh247.com
+0.0.0.0 sieuthidienmayxanh24h.com
+0.0.0.0 thegioidienmayxanh.com
+0.0.0.0 diamondwallet.online
+0.0.0.0 vaykimtruongphat.org
+0.0.0.0 thegioididong.store
+0.0.0.0 sanduon.com
+0.0.0.0 btlt.net
+0.0.0.0 ashford88.com
+0.0.0.0 garerna.vn
+0.0.0.0 smitfb.com
+0.0.0.0 ffb.com.vn
+0.0.0.0 singaporepools-gfp-vn.com
+0.0.0.0 vingroupventures.shop
+0.0.0.0 tjuxi.com
+0.0.0.0 j7nn.in
+0.0.0.0 lazada1688.com
+0.0.0.0 thaco88.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
