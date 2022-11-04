@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/04/2022, 00:00:02
+# Updated: 11/05/2022, 00:00:01
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -10354,7 +10354,6 @@
 0.0.0.0 chongluadao.ga
 0.0.0.0 boensign.com
 0.0.0.0 ganisgui.com
-0.0.0.0 ddoshqcom
 0.0.0.0 oksign.vip
 0.0.0.0 flashsign.vip
 0.0.0.0 moonsign.vip
@@ -11232,6 +11231,40 @@
 0.0.0.0 j7nn.in
 0.0.0.0 lazada1688.com
 0.0.0.0 thaco88.com
+0.0.0.0 vaynhanh3t.online
+0.0.0.0 shinshemcredit.online
+0.0.0.0 vietthanhcredit.com
+0.0.0.0 argoncredit.top
+0.0.0.0 mascotahub.com
+0.0.0.0 ncbbank.online
+0.0.0.0 flbowin.com
+0.0.0.0 morganbank.site
+0.0.0.0 xn--npthe-j11b.vn
+0.0.0.0 vpngiangon.com
+0.0.0.0 adscheckbysmit.com
+0.0.0.0 tairikvip.vip
+0.0.0.0 bitdws.com
+0.0.0.0 hdpdopmf.tokyo
+0.0.0.0 p31000.com
+0.0.0.0 zarastore8.pro
+0.0.0.0 tuithantai.vn
+0.0.0.0 lazadavn.info
+0.0.0.0 vwietcombank.com
+0.0.0.0 caonhanh.xyz
+0.0.0.0 vn-lienket.shop
+0.0.0.0 allegro-task.shop
+0.0.0.0 awlman.com
+0.0.0.0 garenefreefire.com
+0.0.0.0 ob474.xyz
+0.0.0.0 bodefi2.net
+0.0.0.0 bodefi1.net
+0.0.0.0 bodefi3.net
+0.0.0.0 cryptech.vip
+0.0.0.0 cryptech3.vip
+0.0.0.0 abc-vay.com
+0.0.0.0 thegioididong.online
+0.0.0.0 fin-tech.top
+0.0.0.0 mbshinseicredit.click
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
