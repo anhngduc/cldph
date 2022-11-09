@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/09/2022, 00:00:02
+# Updated: 11/10/2022, 00:00:02
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -11291,6 +11291,65 @@
 0.0.0.0 ssocv.com
 0.0.0.0 vimomo.monster
 0.0.0.0 hkim1.org
+0.0.0.0 seenerwind.com
+0.0.0.0 truenorth-wind.com
+0.0.0.0 reliancemall.in
+0.0.0.0 nbnmining15.com
+0.0.0.0 nbnmining14.com
+0.0.0.0 nbnmining13.com
+0.0.0.0 nbnmining12.com
+0.0.0.0 nbnmining11.com
+0.0.0.0 nbnmining10.com
+0.0.0.0 nbnmining09.com
+0.0.0.0 nbnmining08.com
+0.0.0.0 nbnmining07.com
+0.0.0.0 nbnmining06.com
+0.0.0.0 nbnmining05.com
+0.0.0.0 nbnmining04.com
+0.0.0.0 nbnmining03.com
+0.0.0.0 nbnmining02.com
+0.0.0.0 nbnmining01.com
+0.0.0.0 bitbuyhomes.com
+0.0.0.0 ftx-pro.co
+0.0.0.0 butie1106.xyz
+0.0.0.0 dybits.life
+0.0.0.0 winwincoin.me
+0.0.0.0 jobeete.vip
+0.0.0.0 insnag.me
+0.0.0.0 goe-defi.info
+0.0.0.0 coinbasedapp-eth.com
+0.0.0.0 ethereum-mining.info
+0.0.0.0 fidelity-eth.com
+0.0.0.0 coindeal-eth.cc
+0.0.0.0 goe-defi.net
+0.0.0.0 goe-defi.io
+0.0.0.0 fidelity-mining.info
+0.0.0.0 cointigerkt.com
+0.0.0.0 cointigersvip.com
+0.0.0.0 tnmog.com
+0.0.0.0 uruyl1.com
+0.0.0.0 vn-online.store
+0.0.0.0 ebcap.vip
+0.0.0.0 vsbnexsa.com
+0.0.0.0 nvyerd.com
+0.0.0.0 paltekks.com
+0.0.0.0 bmw99.vip
+0.0.0.0 accommodation-acrossasia.com
+0.0.0.0 you88.net
+0.0.0.0 zarastore2.com
+0.0.0.0 zarastore3.com
+0.0.0.0 vipvincompr.net
+0.0.0.0 vipvincompr.one
+0.0.0.0 ddexpica.com
+0.0.0.0 shopcuchuoi.online
+0.0.0.0 tescoextras.com
+0.0.0.0 vib-vay.com
+0.0.0.0 moneydong123.com
+0.0.0.0 luky.vin
+0.0.0.0 hsfdefi.com
+0.0.0.0 flowtranding.com
+0.0.0.0 caesarsyk.live
+0.0.0.0 caesarslda.live
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
@@ -11547,6 +11606,7 @@
 0.0.0.0 gdviettelpay.weebly.com
 0.0.0.0 cuocthitainangnhithang12.weebly.com
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
+0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 facebook.com/%C4%90%E1%BA%A7u-t%C6%B0-t%C3%A0i-ch%C3%ADnh-forex-an-to%C3%A0n-hi%E1%BB%87u-qu%E1%BA%A3-Lion-Community-101611778624602
 0.0.0.0 facebook.com/Oral-B-Viet-Nam-112479383941786
 0.0.0.0 facebook.com/T%C3%A0i-Kho%E1%BA%A3n-Netflix-Gi%C3%A1-R%E1%BA%BB-103051234676686
