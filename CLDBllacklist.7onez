@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/13/2022, 00:00:03
+# Updated: 11/14/2022, 00:00:05
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -11361,7 +11361,7 @@
 0.0.0.0 ncbbank.site
 0.0.0.0 diamondplazaz.com
 0.0.0.0 t777.co
-0.0.0.0 vn-shop
+0.0.0.0 vn-online.shop
 0.0.0.0 vset.group
 0.0.0.0 vinbc.net
 0.0.0.0 xgrbnabgd.com
@@ -11396,6 +11396,38 @@
 0.0.0.0 ddspb.com
 0.0.0.0 24live.live
 0.0.0.0 henhotoinay.vip
+0.0.0.0 binancert.com
+0.0.0.0 28xs.com
+0.0.0.0 ncuymxe.top
+0.0.0.0 kacofin.com
+0.0.0.0 mwrun.com
+0.0.0.0 vozfqjc.top
+0.0.0.0 amazon-isr.com
+0.0.0.0 exxonmob.com
+0.0.0.0 paot.top
+0.0.0.0 coinbasedefi.click
+0.0.0.0 coinbasedefi.one
+0.0.0.0 ammdx.com
+0.0.0.0 deficloud181.online
+0.0.0.0 ge9.in
+0.0.0.0 postteams.com
+0.0.0.0 deficloud665.top
+0.0.0.0 deficloud661.top
+0.0.0.0 inetwork2uvip.com
+0.0.0.0 luckstar88.store
+0.0.0.0 tiktokonline.app
+0.0.0.0 face-book.co
+0.0.0.0 lotuscredit.online
+0.0.0.0 vietcredit.website
+0.0.0.0 jaccsm.com
+0.0.0.0 jaccso.com
+0.0.0.0 confuture.top
+0.0.0.0 hdsaisonc.com
+0.0.0.0 buysfhat.com
+0.0.0.0 shopfamilyyx.com
+0.0.0.0 telascoins.com
+0.0.0.0 crescentmall36.com
+0.0.0.0 viet-thanh.online
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
@@ -11654,6 +11686,7 @@
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
 0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 sites.google.com/view/snapdealtraothuong--on/home
+0.0.0.0 giongcatrienvong-gionghatvietnhi-mua3.weebly.com
 0.0.0.0 facebook.com/%C4%90%E1%BA%A7u-t%C6%B0-t%C3%A0i-ch%C3%ADnh-forex-an-to%C3%A0n-hi%E1%BB%87u-qu%E1%BA%A3-Lion-Community-101611778624602
 0.0.0.0 facebook.com/Oral-B-Viet-Nam-112479383941786
 0.0.0.0 facebook.com/T%C3%A0i-Kho%E1%BA%A3n-Netflix-Gi%C3%A1-R%E1%BA%BB-103051234676686
