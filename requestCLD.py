@@ -7,12 +7,25 @@ def getResponse(url):
     operUrl = urllib.request.urlopen(url)
     if(operUrl.getcode()==200):
         data = operUrl.read()
-        jsonData = json.loads(data)
+        with open("data", "w+", encoding="utf-8") as f:
+            bdata = f.read()
+            if (data != bdata):
+                jsonData = json.loads(data)
+                f.write(str(data))
+                print("load new data")
+            else:
+                jsonData = ""
+                print("same data")
     else:
         print("Error receiving data", operUrl.getcode())
     return jsonData
 
 def main():
+    urlData = "https://api.chongluadao.vn/v2/blacklist"
+    jsonData = getResponse(urlData)
+    if (jsonData == ""):
+        return 0
+    print("update 7onez file")
     now = datetime.now() # current date and time
     date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
     lines = ['# Title: Chong Lua Dao Blacklist (Pihole)', '# Updated: ' + date_time, '# Expires: 1 day (update frequency)','# Homepage: https:chongluadao.vn', '# License: https:chongluadao.vn', '# Source: https:chongluadao.vn', '# Author: Kent Juno','# ---------- Generic Blocking Rules ----------']
@@ -21,8 +34,7 @@ def main():
         f.write('\n'.join(lines))
     
     blacklist=[]
-    urlData = "https://api.chongluadao.vn/v2/blacklist"
-    jsonData = getResponse(urlData)
+    
     # print the state id and state name corresponding
     for i in jsonData:
         url = re.compile(r"https?://(www\.)?")
@@ -30,13 +42,11 @@ def main():
         fin = fin.replace('*.','')
         fin = fin.replace('/*','')
         fin = fin + ''
-      #  print(f'url Name:  {i["url"]}')
-     #$   print(f'url Name:' +  fin)
+      
         blacklist.append(fin)
     blacklist = list(dict.fromkeys(blacklist))
     with open('CLDBllacklist.7onez', 'a' , encoding="utf-8") as f:
         f.writelines('\n0.0.0.0 '.join(blacklist))
-    #print(blacklist)
 
 
 if __name__ == '__main__':
