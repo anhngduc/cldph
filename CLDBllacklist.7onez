@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/17/2022, 00:00:05
+# Updated: 11/18/2022, 00:00:09
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -11516,6 +11516,29 @@
 0.0.0.0 login-lcloud.com
 0.0.0.0 vn-nhanquatang2022.online
 0.0.0.0 vn-quatang2022.online
+0.0.0.0 finshope.com
+0.0.0.0 jktjdhjf.live
+0.0.0.0 sanyuxnxyclxk.com
+0.0.0.0 sun888.win
+0.0.0.0 10sao.me
+0.0.0.0 vn-cm.top
+0.0.0.0 luckyprize88.com
+0.0.0.0 vn-iv.top
+0.0.0.0 vn-vcb.top
+0.0.0.0 vipgooshop.com
+0.0.0.0 maxdong101.com
+0.0.0.0 clmm.fit
+0.0.0.0 muaacccf.com
+0.0.0.0 shinhanfnc.com
+0.0.0.0 zkmqnttb.tokyo
+0.0.0.0 ace365cc.com
+0.0.0.0 1svi101.com
+0.0.0.0 vn-iv.xyz
+0.0.0.0 vn-cm.xyz
+0.0.0.0 rosyglobal.com
+0.0.0.0 mhmarkets.com
+0.0.0.0 yescomfinancial.com
+0.0.0.0 timemarketltd.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
@@ -11775,6 +11798,7 @@
 0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 sites.google.com/view/snapdealtraothuong--on/home
 0.0.0.0 giongcatrienvong-gionghatvietnhi-mua3.weebly.com
+0.0.0.0 binhchonthisinhgionghatvietnhi2022vtv6vn.weebly.com
 0.0.0.0 facebook.com/%C4%90%E1%BA%A7u-t%C6%B0-t%C3%A0i-ch%C3%ADnh-forex-an-to%C3%A0n-hi%E1%BB%87u-qu%E1%BA%A3-Lion-Community-101611778624602
 0.0.0.0 facebook.com/Oral-B-Viet-Nam-112479383941786
 0.0.0.0 facebook.com/T%C3%A0i-Kho%E1%BA%A3n-Netflix-Gi%C3%A1-R%E1%BA%BB-103051234676686
