@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/18/2022, 00:00:09
+# Updated: 11/19/2022, 00:00:07
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -2626,7 +2626,6 @@
 0.0.0.0 nro88.com
 0.0.0.0 acclienquan365.com
 0.0.0.0 daichienham.vn
-0.0.0.0 clipnong.vc
 0.0.0.0 moneydong.us
 0.0.0.0 sunvn.top
 0.0.0.0 membergarenaviet.com
@@ -11539,6 +11538,54 @@
 0.0.0.0 mhmarkets.com
 0.0.0.0 yescomfinancial.com
 0.0.0.0 timemarketltd.com
+0.0.0.0 usdherc.com
+0.0.0.0 ethmining.info
+0.0.0.0 indiantes.com
+0.0.0.0 shopeeson.com
+0.0.0.0 sibole.cn
+0.0.0.0 wweee728.com
+0.0.0.0 williamhillgp.com
+0.0.0.0 unicefcicr.ltd
+0.0.0.0 unicefcicr.life
+0.0.0.0 unicefcicr.club
+0.0.0.0 unicefcicr.world
+0.0.0.0 boniry.club
+0.0.0.0 cryptosg.org
+0.0.0.0 deficloudccc.xyz
+0.0.0.0 napefootball2022.com
+0.0.0.0 doctordong.vn
+0.0.0.0 oivay.vip
+0.0.0.0 vdong.vn
+0.0.0.0 cardsvpb.online
+0.0.0.0 tienoi.com.vn
+0.0.0.0 sukienffo4.com
+0.0.0.0 trungtamthuongmaisaigon.com
+0.0.0.0 shbfinc.com
+0.0.0.0 mmocorporation2017.com
+0.0.0.0 shinhanapp.org
+0.0.0.0 inkatong.com
+0.0.0.0 plus500i.com
+0.0.0.0 vugkq.org
+0.0.0.0 bbyym.com
+0.0.0.0 lovers102.vip
+0.0.0.0 uudainganhang.com
+0.0.0.0 shopbloxfruit.com
+0.0.0.0 shopthuthuatlq.com
+0.0.0.0 shopfo4.com
+0.0.0.0 shopgamedls.com
+0.0.0.0 haitacshopgame.com
+0.0.0.0 sinhnhatffvn.com
+0.0.0.0 shophoiquan.com
+0.0.0.0 shoproblox247.com
+0.0.0.0 hackdls.com
+0.0.0.0 lotte333.com
+0.0.0.0 tpbankc.com
+0.0.0.0 fccomvvn.com
+0.0.0.0 btuyhoplkj.com
+0.0.0.0 aiouiioloh.com
+0.0.0.0 surmstih.com
+0.0.0.0 wroykv.com
+0.0.0.0 bustmai.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
@@ -11799,6 +11846,8 @@
 0.0.0.0 sites.google.com/view/snapdealtraothuong--on/home
 0.0.0.0 giongcatrienvong-gionghatvietnhi-mua3.weebly.com
 0.0.0.0 binhchonthisinhgionghatvietnhi2022vtv6vn.weebly.com
+0.0.0.0 jafico2021.weebly.com
+0.0.0.0 kokoletds234.000webhostapp.com
 0.0.0.0 facebook.com/%C4%90%E1%BA%A7u-t%C6%B0-t%C3%A0i-ch%C3%ADnh-forex-an-to%C3%A0n-hi%E1%BB%87u-qu%E1%BA%A3-Lion-Community-101611778624602
 0.0.0.0 facebook.com/Oral-B-Viet-Nam-112479383941786
 0.0.0.0 facebook.com/T%C3%A0i-Kho%E1%BA%A3n-Netflix-Gi%C3%A1-R%E1%BA%BB-103051234676686
