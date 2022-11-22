@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/22/2022, 00:00:26
+# Updated: 11/23/2022, 00:00:28
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -11586,6 +11586,74 @@
 0.0.0.0 surmstih.com
 0.0.0.0 wroykv.com
 0.0.0.0 bustmai.com
+0.0.0.0 findo.vn
+0.0.0.0 tovlks.com
+0.0.0.0 kavaycash.com
+0.0.0.0 napvatpham.com
+0.0.0.0 hnnxese.com
+0.0.0.0 bninety.com
+0.0.0.0 dienmaykhaitri.com.vn
+0.0.0.0 tx1s.co
+0.0.0.0 vaynhanhnamthanh.org
+0.0.0.0 sengvn.com
+0.0.0.0 moneyveo.vn
+0.0.0.0 senmo.vn
+0.0.0.0 tamo.vn
+0.0.0.0 lienhoa.pro
+0.0.0.0 jupiterperfume.info
+0.0.0.0 coboka.com
+0.0.0.0 skbit.net
+0.0.0.0 woldcup20.cyou
+0.0.0.0 fxonecorp.com
+0.0.0.0 zyncouriers.com
+0.0.0.0 premiicx.com
+0.0.0.0 1819108.com
+0.0.0.0 aomern.com
+0.0.0.0 bninegp.com
+0.0.0.0 tnpdqk.buzz
+0.0.0.0 nhanqua50.online
+0.0.0.0 863vn.com
+0.0.0.0 napkcx10.com
+0.0.0.0 casta88.com
+0.0.0.0 apphdbank.live
+0.0.0.0 tetbuy.com
+0.0.0.0 apphdbank.fun
+0.0.0.0 eravis.cc
+0.0.0.0 vaycreditone.fun
+0.0.0.0 1819101.com
+0.0.0.0 1819102.com
+0.0.0.0 1819104.com
+0.0.0.0 1819106.com
+0.0.0.0 1819109.com
+0.0.0.0 1819103.com
+0.0.0.0 1819105.com
+0.0.0.0 1819107.com
+0.0.0.0 vn-cll.vip
+0.0.0.0 vn-bii.xyz
+0.0.0.0 vn-utt.xyz
+0.0.0.0 vn-bii.top
+0.0.0.0 vn-ccl.top
+0.0.0.0 vn-ccl.xyz
+0.0.0.0 vn-gll.top
+0.0.0.0 vn-gll.xyz
+0.0.0.0 vn-iic.top
+0.0.0.0 vn-iic.xyz
+0.0.0.0 vn-llc.top
+0.0.0.0 vn-llc.xyz
+0.0.0.0 vn-nll.top
+0.0.0.0 vn-nll.xyz
+0.0.0.0 vn-rrg.top
+0.0.0.0 vn-rrg.xyz
+0.0.0.0 vn-tts.top
+0.0.0.0 vn-tts.xyz
+0.0.0.0 vn-utt.top
+0.0.0.0 vn-zg.xyz
+0.0.0.0 vn-zg.top
+0.0.0.0 vn-zi.club
+0.0.0.0 vn-zi.info
+0.0.0.0 eliconglobalplc.com
+0.0.0.0 isaombank.com
+0.0.0.0 vietcombank2022.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
