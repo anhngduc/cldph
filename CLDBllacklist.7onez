@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 11/23/2022, 00:00:28
+# Updated: 11/24/2022, 00:00:11
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -11654,6 +11654,32 @@
 0.0.0.0 eliconglobalplc.com
 0.0.0.0 isaombank.com
 0.0.0.0 vietcombank2022.com
+0.0.0.0 targeet.shop
+0.0.0.0 sclub88.com
+0.0.0.0 bancalongvuong.net
+0.0.0.0 shopmanhcfm.com
+0.0.0.0 as466.com
+0.0.0.0 vnddsc.com
+0.0.0.0 tgdd.vip
+0.0.0.0 vietinbamk.com
+0.0.0.0 pz464.cn
+0.0.0.0 vietinbonk.com
+0.0.0.0 vletcombank.com
+0.0.0.0 gefoce.net
+0.0.0.0 hungthinhvnd.com
+0.0.0.0 shopaccfreefire.com
+0.0.0.0 shopacclmht69.com
+0.0.0.0 shopninjaschool.com
+0.0.0.0 shopnickninjaschool.com
+0.0.0.0 vipoasis.shop
+0.0.0.0 m188.in
+0.0.0.0 m889.in
+0.0.0.0 m518.in
+0.0.0.0 m899.in
+0.0.0.0 vipoasis.cc
+0.0.0.0 m519.in
+0.0.0.0 vipoasis.store
+0.0.0.0 tgdd.cc
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
