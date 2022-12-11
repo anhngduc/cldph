@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 12/11/2022, 00:00:12
+# Updated: 12/12/2022, 00:00:25
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -12411,6 +12411,64 @@
 0.0.0.0 namechk.in
 0.0.0.0 1975vn.com
 0.0.0.0 wvwiietcoombank.com
+0.0.0.0 tdoemp.com
+0.0.0.0 jhjgj7.com
+0.0.0.0 ilsacombank.com
+0.0.0.0 qanjb9k.com
+0.0.0.0 tyoph6b.com
+0.0.0.0 vdvbnhg6y.com
+0.0.0.0 toipk.com
+0.0.0.0 0084113.com
+0.0.0.0 napvidientu.fun
+0.0.0.0 aaxdex-pro.com
+0.0.0.0 vingroupventures.vip
+0.0.0.0 vingroup.store
+0.0.0.0 momo686.win
+0.0.0.0 diamonvn.com
+0.0.0.0 btcturkm.net
+0.0.0.0 luxyperfume.info
+0.0.0.0 khaituanstore-vn.online
+0.0.0.0 anbinh-finance.store
+0.0.0.0 gohnx.com
+0.0.0.0 25luxu.com
+0.0.0.0 muahangcargo.com
+0.0.0.0 krakencoin.me
+0.0.0.0 bilinkbitx.com
+0.0.0.0 telacointx.com
+0.0.0.0 childcause.club
+0.0.0.0 clmm1s.co
+0.0.0.0 beetrade2.vip
+0.0.0.0 onlineotcswap.io
+0.0.0.0 uphome.site
+0.0.0.0 dichvutruyenhinhcap.info
+0.0.0.0 handicopro.com
+0.0.0.0 vietmncredit.com
+0.0.0.0 evnvaytien.xyz
+0.0.0.0 mbbank.net.cn
+0.0.0.0 vpb-cards-online.com
+0.0.0.0 sieukhuyenmai.xyz
+0.0.0.0 minhchinhdientoan.com
+0.0.0.0 vn-nx3.com
+0.0.0.0 joybitbl.vip
+0.0.0.0 jk784.cn
+0.0.0.0 aishui8633.asia
+0.0.0.0 fptapp.com
+0.0.0.0 sitefpt.com
+0.0.0.0 fptapp.vip
+0.0.0.0 sitefpt.site
+0.0.0.0 fptapp.site
+0.0.0.0 softwarefpt.vip
+0.0.0.0 sitefpt.vip
+0.0.0.0 shopfpt.vip
+0.0.0.0 mp389.com
+0.0.0.0 mp808.com
+0.0.0.0 8869vvn.com
+0.0.0.0 ttktoc.com
+0.0.0.0 tbktoc.com
+0.0.0.0 tlktoc.com
+0.0.0.0 trktoc.com
+0.0.0.0 tzktoc.com
+0.0.0.0 usdamazon.com
 0.0.0.0 nhanquatruykichmienphi.blogspot.com
 0.0.0.0 monneygram.weebly.com
 0.0.0.0 nhanquanrofreene.weebly.com
