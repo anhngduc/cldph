@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 02/02/2023, 00:00:08
+# Updated: 02/03/2023, 00:00:06
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -14444,7 +14444,6 @@
 0.0.0.0 vaynhanhtiennong.com
 0.0.0.0 hotrovaytinchaptheoluong.com
 0.0.0.0 sieucltx.live
-0.0.0.0 taixiu44.fun
 0.0.0.0 cltxmm99.fun
 0.0.0.0 clmm234.fun
 0.0.0.0 alomomoz.com
@@ -14452,10 +14451,11 @@
 0.0.0.0 clmm789.win
 0.0.0.0 taixiumomo.us
 0.0.0.0 clmm.ski
-0.0.0.0 thegioivaynhanh.site
 0.0.0.0 clmm.ren
 0.0.0.0 chanlemomo.buzz
 0.0.0.0 adminclmmo88.xyz
+0.0.0.0 thegioivaynhanh.site
+0.0.0.0 taixiu44.fun
 0.0.0.0 shopee-te.com
 0.0.0.0 hkpshopee.com
 0.0.0.0 76996.co
@@ -14517,7 +14517,6 @@
 0.0.0.0 tikizb.com
 0.0.0.0 clmm86.win
 0.0.0.0 coindefi.trade
-0.0.0.0 2b05gp6.cfd
 0.0.0.0 wm1le2r.cfd
 0.0.0.0 l1uanp.website
 0.0.0.0 ko572h.website
@@ -14525,6 +14524,7 @@
 0.0.0.0 odbfvu.website
 0.0.0.0 fhvvun.website
 0.0.0.0 lugrgjj.cfd
+0.0.0.0 2b05gp6.cfd
 0.0.0.0 gpqj0nk.cfd
 0.0.0.0 yqxdxntu.tokyo
 0.0.0.0 zfozvrxo.tokyo
