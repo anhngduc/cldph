@@ -7,9 +7,10 @@ def getResponse(url):
     operUrl = urllib.request.urlopen(url)
     if(operUrl.getcode()==200):
         data = operUrl.read()
-        with open("data", "w+", encoding="utf-8") as f:
+        with open("./data", "r+", encoding="utf-8") as f:
             bdata = f.read()
-            if (data != bdata):
+            print(bdata)
+            if (str(data) != bdata):
                 jsonData = json.loads(data)
                 f.write(str(data))
                 print("load new data")
