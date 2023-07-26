@@ -1,5 +1,5 @@
 # Title: Chong Lua Dao Blacklist (Pihole)
-# Updated: 07/26/2023, 00:01:05
+# Updated: 07/27/2023, 00:01:10
 # Expires: 1 day (update frequency)
 # Homepage: https:chongluadao.vn
 # License: https:chongluadao.vn
@@ -16833,3 +16833,5 @@
 0.0.0.0 riotbweb.com
 0.0.0.0 ticketbox.tv
 0.0.0.0 dichvucongbaohiemxahoi.com
+0.0.0.0 hdsaisonvay.com
+0.0.0.0 hdssfn.online
