@@ -36,7 +36,7 @@ def main():
         fin = fin + ''
         blacklist.append(fin)
     blacklist = list(dict.fromkeys(blacklist))
-    with open('CLDBllacklist.7onez', 'a' , encoding="utf-8") as f:
+    with open('CLDBllacklist.7onez', 'w' , encoding="utf-8") as f:
         f.writelines('\n0.0.0.0 '.join(blacklist))
 
 
