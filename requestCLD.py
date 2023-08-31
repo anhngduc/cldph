@@ -22,8 +22,8 @@ def main():
     date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
     lines = ['# Title: Chong Lua Dao Blacklist (Pihole)', '# Updated: ' + date_time, '# Expires: 1 day (update frequency)','# Homepage: https:chongluadao.vn', '# License: https:chongluadao.vn', '# Source: https:chongluadao.vn', '# Author: Kent Juno','# ---------- Generic Blocking Rules ----------']
     print(lines)
-    with open('CLDBllacklist.7onez', 'w' , encoding="utf-8") as f:
-        f.write('\n'.join(lines))
+    # with open('CLDBllacklist.7onez', 'w' , encoding="utf-8") as f:
+        # f.write('\n'.join(lines))
     
     blacklist=[]
     
@@ -34,7 +34,6 @@ def main():
         fin = fin.replace('*.','')
         fin = fin.replace('/*','')
         fin = fin + ''
-      
         blacklist.append(fin)
     blacklist = list(dict.fromkeys(blacklist))
     with open('CLDBllacklist.7onez', 'a' , encoding="utf-8") as f:
