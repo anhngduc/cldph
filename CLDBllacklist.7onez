@@ -1,4 +1,11 @@
-c54c54.com
+# Title: Chong Lua Dao Blacklist (Pihole)
+# Expires: 1 day (update frequency)
+# Homepage: https:chongluadao.vn
+# License: https:chongluadao.vn
+# Source: https:chongluadao.vn
+# Author: Kent Juno
+# ---------- Generic Blocking Rules ----------
+0.0.0.0 c54c54.com
 0.0.0.0 vuidinhcao.com
 0.0.0.0 dangkyvay-bank247.net
 0.0.0.0 codetruykich.com
