@@ -5,7 +5,7 @@ from datetime import datetime
 
 def getResponse():
     print("call api")
-    operUrl = urllib.request.urlopen("https:/api.chongluadao.vn/v2/blacklist")
+    operUrl = urllib.request.urlopen("https://api.chongluadao.vn/v2/blacklist")
     if(operUrl.getcode()==200):
         data = operUrl.read()
         jsonData = json.loads(data)
