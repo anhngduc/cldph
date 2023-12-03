@@ -3,9 +3,9 @@ import json
 import re
 from datetime import datetime
 
-def getResponse(url):
+def getResponse():
     print("call api")
-    operUrl = urllib.request.urlopen(url)
+    operUrl = urllib.request.urlopen("https:/api.chongluadao.vn/v2/blacklist")
     if(operUrl.getcode()==200):
         data = operUrl.read()
         jsonData = json.loads(data)
@@ -15,8 +15,7 @@ def getResponse(url):
     return jsonData
 
 def main():
-    url = "https:/api.chongluadao.vn/v2/blacklist"
-    jsonData = getResponse(url)
+    jsonData = getResponse()
     if (jsonData == ""):
         return 0
     lines = ['# Title: Chong Lua Dao Blacklist (Pihole)', '# Expires: 1 day (update frequency)','# Homepage: https:chongluadao.vn', '# License: https:chongluadao.vn', '# Source: https:chongluadao.vn', '# Author: Kent Juno','# ---------- Generic Blocking Rules ----------']
