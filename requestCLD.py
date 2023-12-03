@@ -4,17 +4,19 @@ import re
 from datetime import datetime
 
 def getResponse(url):
+    print("call api")
     operUrl = urllib.request.urlopen(url)
     if(operUrl.getcode()==200):
         data = operUrl.read()
         jsonData = json.loads(data)
+        print("Got {} items".format(len(jsonData)))
     else:
         print("Error receiving data", operUrl.getcode())
     return jsonData
 
 def main():
-    urlData = "https://api.chongluadao.vn/v2/blacklist"
-    jsonData = getResponse(urlData)
+    url = "https:/api.chongluadao.vn/v2/blacklist"
+    jsonData = getResponse(url)
     if (jsonData == ""):
         return 0
     lines = ['# Title: Chong Lua Dao Blacklist (Pihole)', '# Expires: 1 day (update frequency)','# Homepage: https:chongluadao.vn', '# License: https:chongluadao.vn', '# Source: https:chongluadao.vn', '# Author: Kent Juno','# ---------- Generic Blocking Rules ----------']
@@ -33,6 +35,7 @@ def main():
         fin = fin + ''
         blacklist.append(fin)
     blacklist = list(dict.fromkeys(blacklist))
+    print("Black list: {} items".format(len(blacklist)))
     with open('CLDBllacklist.7onez', 'a' , encoding="utf-8") as f:
         f.writelines('0.0.0.0 ' +'\n0.0.0.0 '.join(blacklist))
 
